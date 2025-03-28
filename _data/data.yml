@@ -123,45 +123,28 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: Certificationes
       list:
-        - name: CV Builder
+        - name: Gestión Ágil de Proyectos
           start: 2020
           end: 2021
-          organization: Microsoft
+          organization: Pontificia Universidad Javeriana
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: https://www.edx.org/es/school/javerianax
+          credentialname: PUJ
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+            Curso orientado a la gestión eficiente de proyectos con metodologías ágiles como Scrum y Kanban. 
+            Se enfoca en la planificación, ejecución y monitoreo de proyectos con herramientas digitales para mejorar la productividad y la entrega de valor.
+        - name: Certified Ethical Hacker (CEH)
           start: 2019
           end:
-          organization: Microsoft
+          organization: EC-Council
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: www.eccouncil.com
+          credentialname: EC-Council
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Certificación en ciberseguridad enfocada en la identificación y mitigación de vulnerabilidades en sistemas informáticos. 
+            Se cubren técnicas de hacking ético, pruebas de penetración y herramientas de seguridad informática.
 
 projects:
     title: Projects
