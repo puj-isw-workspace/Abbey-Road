@@ -149,29 +149,31 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Los proyectos laborales son aquellas iniciativas o tareas específicas que llevas a cabo dentro de un entorno profesional. 
+      Pueden formar parte de tu trabajo en una empresa, ser parte de un emprendimiento personal o incluso estar relacionados con 
+      colaboraciones freelance. Estos proyectos te permiten desarrollar habilidades, adquirir experiencia y aportar valor a tu equipo o clientes.
+
+
     assignments:
-      - title: Velocity
+      - title: Desarrollo de software o aplicaciones
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Creación de plataformas digitales, sitios web o sistemas internos para mejorar la eficiencia de una empresa."
 
-      - title: DevStudio
+      - title: Gestión de campañas de marketing
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Planificación y ejecución de estrategias publicitarias, gestión de redes sociales o posicionamiento SEO."
 
-      - title: Tempo
+      - title: Proyectos de consultoría
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: " Análisis y mejora de procesos en una empresa, asesoramiento en estrategias de negocio o implementación de nuevas tecnologías"
 
-      - title: Atom
+      - title: Investigaciones y estudios de mercado
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Recopilación y análisis de datos para mejorar productos, servicios o procesos empresariales."
 
-      - title: Delta
+      - title: Lanzamiento de nuevos productos o servicios 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Desde la idea inicial hasta la comercialización, incluyendo diseño, pruebas y estrategias de ventas."
 
 oss:
     title: OSS Contributions
