@@ -25,36 +25,29 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Español
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: Inglés
           level: Professional
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Climbing
-          link:
+        - item: Baloncesto
+          link: https://es.wikipedia.org/wiki/Luka_Dončić
 
-        - item: Snowboarding
-          link:
+        - item: Guitarra
+          link: https://www-ibanez-com.translate.goog/usa/artists/detail/213.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc
 
-        - item: Cooking
-          link:
+        - item: Peaky Blinders
+          link: https://es.wikipedia.org/wiki/Tommy_Shelby
 
 career-profile:
-    title: Career Profile
+    title: Sobre Mi
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Estoy estudiando ingenieria de sistemas en la pontificia universidad javeriana, estoy cursando el cuarto semestre de un total de 8 semestres de carrera, he participado en varios proyectos
+      en lenguajes como Java,c++, SQL, etc.. soy un fanatico asérrimo de Luka Doncic y del real madrid.
 education:
     title: Education
     info:
